@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kinderino
 - 👀 I’m interested in Unity 2D/3D
-- 🌱 I’m currently learning Unity/C#/Graphics
+- 🌱 I’m currently learning Unity/C#
 - 📫 How to reach me kinga.struzik1907@gmail.com
 
 <!---
